@@ -1,0 +1,78 @@
+1. Question: What is the least number which when divided by 12, 15, and 20 leaves a remainder of 4 in each case?
+Answer: LCM of 12, 15, and 20 is 60. Adding 4 to the LCM: 60 + 4 = 64. Required number = 64.
+
+
+2. Question: A person covers a distance at a speed of 60 km/h and reaches his destination 1 hour early. At 40 km/h, he reaches 1 hour late. What is the distance?
+Answer: Difference in time = 2 hours. Distance = (60 × 40) / (60 - 40) = 120 km.
+
+
+3. Question: If 8x - 3 = 5, find the value of x.
+Answer: 8x - 3 = 5 → 8x = 8 → x = 1.
+
+
+4. Question: A sum of money doubles in 8 years at simple interest. What is the rate of interest?
+Answer: Rate = (100 × Interest) / (Principal × Time) = 12.5%.
+
+
+5. Question: A student secures 40% in an exam and fails by 10 marks. If he scores 50%, he passes by 15 marks. Find the total marks.
+Answer: Difference = 50% - 40% = 10%. 10% = 10 + 15 = 25. Total marks = (100 × 25) / 10 = 250.
+
+
+6. Question: If 35% of a number is 525, find the number.
+Answer: Number = (525 × 100) / 35 = 1500.
+
+
+7. Question: A shopkeeper sells an article for Rs. 600 at a profit of 20%. What is the cost price?
+Answer: Cost Price = (Selling Price × 100) / (Profit Percentage + 100) = (600 × 100) / 120 = Rs. 500.
+
+
+8. Question: A man bought a watch for Rs. 1200 and sold it for Rs. 1500. Find his profit percentage.
+Answer: Profit = 1500 - 1200 = 300. Profit Percentage = (300 / 1200) × 100 = 25%.
+
+
+9. Question: A can complete a job in 12 days, and B can complete it in 16 days. If they work together, how many days will they take?
+Answer: Work per day = (1/12) + (1/16) = 7/48. Total days = 48/7 = 6.86 days.
+
+
+10. Question: A pipe fills a tank in 10 hours, while another empties it in 15 hours. How long will it take to fill the tank when both pipes are open?
+Answer: Net work = (1/10) - (1/15) = 1/30. Time = 30 hours.
+
+
+11. Question: The sum of the ages of a father and son is 56 years. Four years ago, the father was three times as old as the son. Find their current ages.
+Answer: Let son's age = x. Then father’s age = 56 - x. Solving: x = 16, father’s age = 40.
+
+
+12. Question: A man’s age is three times his son’s age. After 12 years, the man will be twice as old as his son. What are their current ages?
+Answer: Let son’s age = x. Man’s age = 3x. Solving: x = 12, man’s age = 36.
+
+
+13. Question: A is the mother of B, B is the sister of C, and C is the father of D. How is A related to D?
+Answer: A is the grandmother of D.
+
+
+14. Question: In a certain code, "CAT" is written as "DBU". How is "DOG" written in the same code?
+Answer: Each letter is shifted by +1. So, "DOG" becomes "EPH".
+
+
+15. Question: Find the next number in the series: 2, 6, 12, 20, 30, ...
+Answer: Differences are 4, 6, 8, 10. Next difference = 12. Next number = 30 + 12 = 42.
+
+
+16. Question: What is the simple interest on Rs. 5000 for 3 years at 5% per annum?
+Answer: SI = (P × R × T) / 100 = (5000 × 5 × 3) / 100 = Rs. 750.
+
+
+17. Question: Find the compound interest on Rs. 2000 for 2 years at 10% per annum.
+Answer: A = P(1 + R/100)^T = 2000(1.1)^2 = 2420. Compound Interest = 2420 - 2000 = Rs. 420.
+
+
+18. Question: A car travels at 60 km/h for 2 hours and 80 km/h for 3 hours. Find the average speed.
+Answer: Total distance = (60 × 2) + (80 × 3) = 400 km. Average speed = 400 / 5 = 80 km/h.
+
+
+19. Question: A train of length 120 meters crosses a platform of length 80 meters in 20 seconds. Find its speed.
+Answer: Total distance = 120 + 80 = 200 m. Speed = 200 / 20 = 10 m/s = 36 km/h.
+
+
+20. Question: If x² - 9 = 0, find the value of x.
+Answer: x² = 9 → x = ±3.
